@@ -9,16 +9,15 @@
 
     <Button
         android:id="@+id/btnAgregar"
-        android:layout_width="112dp"
-        android:layout_height="57dp"
+        android:layout_width="127dp"
+        android:layout_height="77dp"
         android:layout_marginBottom="220dp"
-        android:text="Agregar"
+        android:text="Mostrar Perfil"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView4"
-        app:layout_constraintVertical_bias="0.936" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <ImageView
         android:id="@+id/imageView4"
